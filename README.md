@@ -1,5 +1,7 @@
-### Hi there 👋
 
+<div>
+  <img src="https://media1.tenor.com/images/52d13e6274e30ee0fe98d1c20d39a341/tenor.gif?itemid=5586037" style="position: relative; left: 25vw; display: block; margin: 0 auto; max-width: 683px; width: 40%; background-color: transparent;" alt="Doge Doge On Doge GIF - Doge DogeOnDoge Meme GIFs" style="">
+</div>
 <!--
 **stevencch99/stevencch99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
